@@ -1,0 +1,6 @@
+venvname/
+*.wav
+*.mp3
+.vscode/
+.env
+.env 
